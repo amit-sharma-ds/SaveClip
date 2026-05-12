@@ -1,4 +1,4 @@
-# SaveClip
+# SaveClip [Video Downloader Extension Without Watermark]
 
 SaveClip is a browser extension that lets you download Meta AI generated videos easily without any watermark.
 
